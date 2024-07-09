@@ -1,0 +1,19 @@
+const accountId = 144553
+let accountEmail = "iftekhar9625@gmail.com"
+// in js only const and let mostly use in declaration of variable
+
+// use of var should avoid 
+var accountpassword = "12345"
+
+// variable can be describe only by naming it 
+accountCity = "Delhi"
+
+// here changing the value that are mention earlier 
+accountEmail = "jmbdvjdguf@.com"
+accountpassword = "jfdbkuhb"
+accountCity = "New Delhi"
+
+
+console.log(accountId)
+// we can also write this to get o/p in console 
+console.table([accountId, accountEmail, accountpassword, accountCity]);
